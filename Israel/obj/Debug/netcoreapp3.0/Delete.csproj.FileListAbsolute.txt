@@ -1,0 +1,13 @@
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.exe
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.deps.json
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.runtimeconfig.json
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.runtimeconfig.dev.json
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.dll
+C:\Users\Andrii\source\repos\Delete\Delete\bin\Debug\netcoreapp3.0\Delete.pdb
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.csprojAssemblyReference.cache
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.AssemblyInfoInputs.cache
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.AssemblyInfo.cs
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.dll
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.pdb
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\Delete\Delete\obj\Debug\netcoreapp3.0\Delete.genruntimeconfig.cache
